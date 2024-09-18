@@ -4,7 +4,7 @@ import WbSunnyIcon from '@mui/icons-material/WbSunny';
 function Header() {
   return (
     <header>
-      <h1><WbSunnyIcon /> Weather App</h1>
+      <h1><WbSunnyIcon /> WeatherByCity</h1>
     </header>
   );
 }
