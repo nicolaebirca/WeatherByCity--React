@@ -1,6 +1,6 @@
 import React from 'react'
 import Weather from './components/Weather'
-import Header from './components/header'
+import Header from './components/Header'
 
 const App = () => {
   return (
